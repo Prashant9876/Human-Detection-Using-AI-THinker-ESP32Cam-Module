@@ -26,7 +26,7 @@ This is an Arduino-compatible library for **real-time person detection** using t
 ## Getting Started
 
 ### Step 1: Download and Install the Library
-1. Download the library from the [GitHub repository](https://github.com/your-repo-link).
+1. Download the library from the [GitHub repository](https://github.com/Prashant9876/Human-Detection-Using-AI-THinker-ESP32Cam-Module).
 2. Open the Arduino IDE.
 3. Navigate to **Sketch** > **Include Library** > **Add .ZIP Library...**.
 4. Select the downloaded `.zip` file and click **Open**. This will install the library in your Arduino IDE.
